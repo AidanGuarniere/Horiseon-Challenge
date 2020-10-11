@@ -14,6 +14,7 @@ THEN I find a concise, descriptive title<br>
 <img src= Horiseon3.png>
 <img src= Horiseon2.png>
 <img src= Horiseon1.png>
+
 ## setup 
 ```
 git clone https://aidanguarniere.github.io/Horiseon-Challenge/
